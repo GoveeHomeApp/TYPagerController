@@ -1,21 +1,21 @@
 {
   "name": "TYPagerController",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "summary": "page scroll View controller,simple,high custom,and have tabBar styles.",
-  "homepage": "https://github.com/12207480/TYPagerController",
+  "homepage": "https://github.com/sygovee/TYPagerController",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "tany": "122074809@qq.com"
+    "sy": "786281584@qq.com"
   },
   "platforms": {
     "ios": "11.0"
   },
   "source": {
-    "git": "https://github.com/12207480/TYPagerController.git",
-    "tag": "2.1.2"
+    "git": "git@github.com:sygovee/TYPagerController.git",
+    "tag": "2.1.3"
   },
   "requires_arc": true,
   "static_framework": true,
